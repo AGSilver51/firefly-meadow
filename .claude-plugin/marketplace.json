@@ -1,0 +1,5 @@
+{
+  "name": "firefly-meadow",
+  "owner": { "name": "AGSilver51" },
+  "plugins": [{ "name": "firefly-meadow", "source": "./" }]
+}

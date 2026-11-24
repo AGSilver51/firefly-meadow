@@ -1,0 +1,10 @@
+{
+  "name": "firefly-meadow",
+  "version": "0.1.0",
+  "description": "A dusky meadow backdrop whose fireflies multiply as the context window fills",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "AGSilver51"
+  },
+  "license": "MIT"
+}
